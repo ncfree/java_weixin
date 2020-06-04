@@ -43,7 +43,7 @@ public class ControllerText {
 	
 	@RequestMapping("hello")
 	public String getText(){
-		return "hello world";
+		return "hello world rrr";
 	}
 
 
